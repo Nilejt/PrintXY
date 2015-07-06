@@ -17,6 +17,8 @@ namespace PrintXY
         {
             get { return Math.Sqrt(X * X + Y * Y); }
         }
+        
+
 
 
         public override string ToString()
